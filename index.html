@@ -10,16 +10,16 @@
   <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 
 
-  <link rel="stylesheet" href="./radio.css">
-  <link rel="stylesheet" href="./chkbox.css">
-  <link rel="stylesheet" href="./main.css">
-  <link rel="stylesheet" href="./start-dlg.css">
+  <link rel="stylesheet" href="./styles/radio.css">
+  <link rel="stylesheet" href="./styles/chkbox.css">
+  <link rel="stylesheet" href="./styles/main.css">
+  <link rel="stylesheet" href="./styles/start-dlg.css">
 </head>
 
 <body>
   <div class="body">
     <div class="header">
-      <div class="logo">QuizMath</div>
+      <div class="logo">PsychoQuiz</div>
       <div class="center f-c">
       </div>
       <div class="right f-c">
@@ -214,10 +214,16 @@
     integrity="sha512-WFN04846sdKMIP5LKNphMaWzU7YpMyCU245etK3g/2ARYbPK9Ub18eG+ljU96qKRCWh+quCY7yefSmlkQw1ANQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-  <script src="../assets/data.js"></script>
-  <script src="./timer.js"></script>
-  <script src="./start-dlg.js"></script>
-  <script src="./main.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js"></script>
+
+  <script src="./js/common/consts.js"></script>
+  <script src="./js/common/utils.js"></script>
+  <script src="./js/common/timer.js"></script>
+  <script src="./js/build/data-builder.js"></script>
+  <script src="./js/build/chapter-validator.js"></script>
+  <script src="./js/build/file-validator.js"></script>
+  <script src="./js/dialogs/start-dlg.js"></script>
+  <script src="./js/main.js"></script>
 </body>
 
 </html>

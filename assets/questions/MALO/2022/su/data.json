@@ -1,0 +1,52 @@
+{
+  "publisher": "MALLO",
+  "year": "2022",
+  "season": "summer",
+  "questions": {
+    "math1": [
+      "1:GEO1:1",
+      "2:GEO1",
+      "3:GEO1",
+      "4:GEO1",
+      "5:GEO1",
+      "6:GEO1",
+      "7:GEO1",
+      "8:GEO1",
+      "9:GEO1",
+      "10:GEO1",
+      "11:GEO1",
+      "12:GEO1",
+      "13:GEO1",
+      "14:GEO1",
+      "15:GEO1",
+      "16:GEO1",
+      "17:GEO1",
+      "18:GEO1",
+      "19:GEO1",
+      "20:GEO1"
+    ],
+    "math2": [
+      "1:GEO1",
+      "2:GEO1",
+      "3:GEO1",
+      "4:GEO1",
+      "5:GEO1",
+      "6:GEO1",
+      "7:GEO1",
+      "8:GEO1",
+      "9:GEO1",
+      "10:GEO1",
+      "11:GEO1",
+      "12:GEO1",
+      "13:GEO1",
+      "14:GEO1",
+      "15:GEO1",
+      "16:GEO1",
+      "17:GEO1",
+      "18:GEO1",
+      "19:GEO1",
+      "20:GEO1"
+    ],
+    "HE1": []
+  }
+}
