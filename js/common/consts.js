@@ -10,7 +10,7 @@ window.eChapters = {
 window.MATH_AREAS = {
   charts: "charts",
   geo: "geo",
-  polygons: "polygons",
+  polygons: "poly",
   circles: "circles",
   alg: "alg",
   exponent: "exponent",
