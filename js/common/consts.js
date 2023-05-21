@@ -8,13 +8,14 @@ window.eChapters = {
 }
 
 window.MATH_AREAS = {
-  charts: "charts",
+  chart: "chart",
   geo: "geo",
   polygons: "poly",
   circles: "circles",
   alg: "alg",
   exponent: "exponent",
   root: "root",
+  fractions: "fractions",
   eq: "eq",
   problems: "problems",
   percent: "percent",
@@ -23,7 +24,9 @@ window.MATH_AREAS = {
   prob: "prob",
   oddEven: "oddEven",
   prime: "prime",
-  newOp: "newOp"
+  newOp: "newOp",
+  avg: "avg",
+  remainder: "remainder"
 }
 
 window.MATH_AREAS_ARR = Object.values(window.MATH_AREAS)
