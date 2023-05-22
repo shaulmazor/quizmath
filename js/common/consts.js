@@ -37,7 +37,7 @@ window.MATH_AREAS = {
 
   //--------------------------
 
-  probs: "probs",
+  prb: "prb",
   relations: "relations",
   comb: "comb",
   probability: "probability",
