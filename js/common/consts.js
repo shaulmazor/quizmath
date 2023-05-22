@@ -9,26 +9,40 @@ window.eChapters = {
 
 window.MATH_AREAS = {
   chart: "chart",
+
+  //--------------------------
+
   geo: "geo",
   polygons: "poly",
   circles: "circles",
+
+  //--------------------------
+
   alg: "alg",
+  eq: "eq",
+  percent: "percent",
+  fractions: "fractions",
+  expression: "expression",
   exponent: "exponent",
   root: "root",
-  fractions: "fractions",
-  eq: "eq",
-  problems: "problems",
-  percent: "percent",
-  relations: "relations",
-  comb: "comb",
-  probability: "probability",
-  supply: "supply",
-  movement: "movement",
   oddEven: "oddEven",
   prime: "prime",
   newOp: "newOp",
   avg: "avg",
-  remainder: "remainder"
+  remainder: "remainder",
+  range: "range",
+  factorial: "factorial",
+  abs: abs,
+  divide: "divide",
+
+  //--------------------------
+
+  probs: "probs",
+  relations: "relations",
+  comb: "comb",
+  probability: "probability",
+  supply: "supply",
+  movement: "movement"
 }
 
 window.MATH_AREAS_ARR = Object.values(window.MATH_AREAS)
