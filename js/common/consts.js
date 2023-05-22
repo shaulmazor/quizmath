@@ -15,6 +15,7 @@ window.MATH_AREAS = {
   geo: "geo",
   polygons: "poly",
   circles: "circles",
+  third: "third",
 
   //--------------------------
 
