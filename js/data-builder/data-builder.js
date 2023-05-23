@@ -5,6 +5,8 @@ function DataBuilder() {
 
   tests = [];
   filesUrls = [
+    "../../assets/questions/MALLO/2021/w/data.json",
+    "../../assets/questions/MALLO/2021/a/data.json",
     "../../assets/questions/MALLO/2022/w/data.json",
     "../../assets/questions/MALLO/2022/sp/data.json",
     "../../assets/questions/MALLO/2022/su/data.json",
