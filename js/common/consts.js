@@ -34,7 +34,7 @@ window.MATH_AREAS = {
   range: "range",
   factorial: "factorial",
   abs: abs,
-  divide: "divide",
+  divide: "divide"
 
   //--------------------------
 
